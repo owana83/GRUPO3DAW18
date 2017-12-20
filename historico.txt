@@ -1,0 +1,13 @@
+Hemos repartido los archivos entre los cuatro integrantes : 
+
+-Fran ha creado el repositorio y ha añadido a los integrantes del grupo, ha subido los archivos
+inicio.txt y el archivo valoraciones.txt
+
+-David ha subido los archivos de vista.
+
+-Enrique ha subido los archivos modelo y controlador.
+
+-Rocío: he subido el archivo controlador y la carpeta templates.
+
+**En el archivo inicio.txt esta redactado el proceso con los comandos usados.
+
