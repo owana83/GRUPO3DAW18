@@ -1,0 +1,26 @@
+Primero he creado el repositorio GRUPO3DAW18 y he subido desde la web el proyecto/carpeta alimentos.
+
+Luego , para usarlo en mi local me voy a la carpeta donde lo voy a trabajar, en mi caso:
+/Dropbox/DAW/DAW2/HLC_PHP/ejercicios/ejercicios$
+
+Desde esa carpeta ejecuto el comando init para crea un repositorio de Git vacio o reinicia el que ya existe:
+$ git init GRUPO3DAW18
+
+ 
+Vemos en la carpeta como se ha creado la carpeta del repositorio y la del proyecto alimento.
+
+Vamos a comprobar que tenemos conectados los repositorios de GITHUB y el LOCAL, para eso entramos en la carpeta del repositorio GRUPO3DAW18 y escribimos:
+$ git remote -v
+
+
+Ahora crearemos el archivo inicio.txt en la carpeta GRUPO3DAW18  donde explico todo esto sin imágenes.
+
+Para subir este archivo a GITHUB, primero lo añadimos a la zona de index, luego lo confirmamos y luego lo ‘empujamos’ a github, estos son los 3 comandos:
+$ git add inicio.txt
+$ git commit -m ‘Creando fichero inicio.txt’
+$ git push origin master
+
+ 
+Y comprobamos en GITHUB su está el archivo ‘empujado’.
+
+
